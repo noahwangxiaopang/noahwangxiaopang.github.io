@@ -3,11 +3,11 @@
   <title>旺小胖&#39;s Tech-Blog</title>
   
   
-  <link href="https://wangxiaopang.tech/atom.xml" rel="self"/>
+  <link href="https://noahwangxiaopang.github.io/atom.xml" rel="self"/>
   
-  <link href="https://wangxiaopang.tech/"/>
+  <link href="https://noahwangxiaopang.github.io/"/>
   <updated>2021-08-19T11:04:00.869Z</updated>
-  <id>https://wangxiaopang.tech/</id>
+  <id>https://noahwangxiaopang.github.io/</id>
   
   <author>
     <name>旺小胖</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>设计模式</title>
-    <link href="https://wangxiaopang.tech/2021/08/19/cksiugkma0003hkun5m6cgm7l/"/>
-    <id>https://wangxiaopang.tech/2021/08/19/cksiugkma0003hkun5m6cgm7l/</id>
+    <link href="https://noahwangxiaopang.github.io/2021/08/19/cksiugkma0003hkun5m6cgm7l/"/>
+    <id>https://noahwangxiaopang.github.io/2021/08/19/cksiugkma0003hkun5m6cgm7l/</id>
     <published>2021-08-19T10:53:06.000Z</published>
     <updated>2021-08-19T11:04:00.869Z</updated>
     
@@ -37,14 +37,14 @@
     
     
     
-    <category term="设计模式" scheme="https://wangxiaopang.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <category term="设计模式" scheme="https://noahwangxiaopang.github.io/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>我写博客了</title>
-    <link href="https://wangxiaopang.tech/2021/08/17/cksiugkm30001hkunbzpzgk5l/"/>
-    <id>https://wangxiaopang.tech/2021/08/17/cksiugkm30001hkunbzpzgk5l/</id>
+    <link href="https://noahwangxiaopang.github.io/2021/08/17/cksiugkm30001hkunbzpzgk5l/"/>
+    <id>https://noahwangxiaopang.github.io/2021/08/17/cksiugkm30001hkunbzpzgk5l/</id>
     <published>2021-08-16T16:04:52.000Z</published>
     <updated>2021-08-16T16:09:18.870Z</updated>
     
@@ -55,10 +55,10 @@
     
     
     
-    <category term="category" scheme="https://wangxiaopang.tech/categories/category/"/>
+    <category term="category" scheme="https://noahwangxiaopang.github.io/categories/category/"/>
     
     
-    <category term="博客" scheme="https://wangxiaopang.tech/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://noahwangxiaopang.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
