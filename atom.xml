@@ -3,11 +3,11 @@
   <title>旺小胖&#39;s Tech-Blog</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://wangxiaopang.tech/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://wangxiaopang.tech/"/>
   <updated>2021-08-19T07:41:19.239Z</updated>
-  <id>http://example.com/</id>
+  <id>https://wangxiaopang.tech/</id>
   
   <author>
     <name>旺小胖</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>设计模式简介</title>
-    <link href="http://example.com/posts/50254"/>
-    <id>http://example.com/posts/50254</id>
+    <link href="https://wangxiaopang.tech/posts/50254"/>
+    <id>https://wangxiaopang.tech/posts/50254</id>
     <published>2021-08-18T12:45:29.000Z</published>
     <updated>2021-08-19T07:41:19.239Z</updated>
     
@@ -36,17 +36,17 @@
     
     
     
-    <category term="设计模式" scheme="http://example.com/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <category term="设计模式" scheme="https://wangxiaopang.tech/categories/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
     
-    <category term="设计模式" scheme="http://example.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
+    <category term="设计模式" scheme="https://wangxiaopang.tech/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
   <entry>
     <title>我写博客了</title>
-    <link href="http://example.com/posts/15529"/>
-    <id>http://example.com/posts/15529</id>
+    <link href="https://wangxiaopang.tech/posts/15529"/>
+    <id>https://wangxiaopang.tech/posts/15529</id>
     <published>2021-08-16T16:04:52.000Z</published>
     <updated>2021-08-16T16:09:18.870Z</updated>
     
@@ -57,10 +57,10 @@
     
     
     
-    <category term="category" scheme="http://example.com/categories/category/"/>
+    <category term="category" scheme="https://wangxiaopang.tech/categories/category/"/>
     
     
-    <category term="博客" scheme="http://example.com/tags/%E5%8D%9A%E5%AE%A2/"/>
+    <category term="博客" scheme="https://wangxiaopang.tech/tags/%E5%8D%9A%E5%AE%A2/"/>
     
   </entry>
   
