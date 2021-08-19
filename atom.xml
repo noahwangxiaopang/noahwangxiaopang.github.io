@@ -6,7 +6,7 @@
   <link href="https://wangxiaopang.tech/atom.xml" rel="self"/>
   
   <link href="https://wangxiaopang.tech/"/>
-  <updated>2021-08-19T10:27:50.252Z</updated>
+  <updated>2021-08-19T10:53:06.962Z</updated>
   <id>https://wangxiaopang.tech/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>设计模式</title>
+    <link href="https://wangxiaopang.tech/posts/41682"/>
+    <id>https://wangxiaopang.tech/posts/41682</id>
+    <published>2021-08-19T10:53:06.000Z</published>
+    <updated>2021-08-19T10:53:06.962Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>设计模式简介</title>
